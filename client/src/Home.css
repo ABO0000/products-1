@@ -1,0 +1,13 @@
+.home {
+   background-image: url("3984185.jpg");
+   background-size:cover;
+   height:calc(90vh);
+   width:100%;
+   }
+.text{
+    text-align: center;
+    margin-top:200px
+}
+.buttons{
+    margin-top: 200px;
+}
